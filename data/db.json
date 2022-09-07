@@ -1,0 +1,64 @@
+{
+  "notes": [
+    {
+      "title": "work for sunday",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release ",
+      "category": "reminder",
+      "id": 1
+    },
+    {
+      "title": "hello world",
+      "details": "hello world 2",
+      "category": "money",
+      "id": 2
+    },
+    {
+      "title": "world war 2",
+      "details": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Why do",
+      "category": "reminder",
+      "id": 3
+    },
+    {
+      "title": "sadsa",
+      "details": "sdasda",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "this is bangladesh",
+      "details": "this is india",
+      "category": "reminder",
+      "id": 5
+    },
+    {
+      "title": "pay the milkman",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing",
+      "category": "money",
+      "id": 6
+    },
+    {
+      "title": "hello world",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.\n\nWhy do we use it?\nIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsu",
+      "category": "todos",
+      "id": 7
+    },
+    {
+      "title": "bangladesh ",
+      "details": "aslkjdddddddddd ddddddd ddddddddddddd ddddddddddd dddd asdddddddd ddddddddddddddd dddddddd ddd dsasasasasasasasasasa sasasasasasas asasasasas asasasasa",
+      "category": "todos", 
+      "id": 8
+    },
+    {
+      "title": "asnjdaksdsad",
+      "details": "adsadsbhasdjhdas asdjhkksadads ndsafufdsam,dfsa  sdhfuifse m, bndsifiesfdm  hedurewkndsfN DFSHLihfm sdfn,dsvd sjsdhfiusfd  dkksihfamjnsdafnsdkfafj",
+      "category": "money",
+      "id": 9
+    },
+    {
+      "title": "dsfknsdfkfjsdf",
+      "details": "sdkjdsjfsaef dsffjljsdaknl,sdfnmksdff sdfjahksdffjl sdffjosdaffisdo,mnsdjsdif jsdfaj,sndf liudsfuseaiumnm,xfc iojoosedfuiofidsansdfijsuofdf dsflijufsd dsljoufjsiaol",
+      "category": "reminder",
+      "id": 10
+    }
+  ]
+}
